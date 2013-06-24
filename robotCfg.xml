@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robotconfig><datasources><datasource id="dgch" url="jdbc:oracle:thin:@192.168.1.223:1521:dgch" username="mia" password="mia2013"/></datasources></robotconfig>
